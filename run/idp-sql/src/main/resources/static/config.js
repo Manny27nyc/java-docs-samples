@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // [START cloudrun_end_user_firebase_config]
 const config = {
   apiKey: "API_KEY",

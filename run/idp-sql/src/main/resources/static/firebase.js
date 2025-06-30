@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 firebase.initializeApp(config);
 
 // Watch for state change from sign in
