@@ -64,7 +64,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>31.0.1-jre</version>
+      <version>32.0.0-jre</version>
     </dependency>
 
     <!-- Test Dependencies -->
@@ -99,7 +99,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk-s3</artifactId>
-      <version>1.12.77</version>
+      <version>1.12.261</version>
       <scope>test</scope>
     </dependency>
 
